@@ -1,0 +1,18 @@
+{
+  "name": "spanish-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sourceCode.html",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "package.json": "^2.0.1",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Hayden Greer",
+  "license": "MIT"
+}
